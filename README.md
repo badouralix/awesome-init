@@ -10,6 +10,10 @@ A curated list of resources to start a new project.
 - [Python](code/PYTHON.md)
 - [Rust](code/RUST.md)
 
+## Tools
+
+- [Github](https://github.com/arshadkazmi42/awesome-github-init)
+
 ## License
 
 Unless expressly stated otherwise, all contents licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
