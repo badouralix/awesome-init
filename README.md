@@ -8,6 +8,7 @@ A curated list of resources to start a new project.
 - [Go](code/GO.md)
 - [Javascript](code/JAVASCRIPT.md)
 - [Python](code/PYTHON.md)
+- [Rust](code/RUST.md)
 
 ## License
 
