@@ -12,6 +12,7 @@ A curated list of resources to start a new project.
 
 ## Tools
 
+- [Git](tools/GIT.md)
 - [Github](https://github.com/arshadkazmi42/awesome-github-init)
 
 ## License
