@@ -7,6 +7,7 @@ A curated list of resources to start a new project.
 - [Bash](code/BASH.md)
 - [Go](code/GO.md)
 - [Javascript](code/JAVASCRIPT.md)
+- [Python](code/PYTHON.md)
 
 ## License
 
