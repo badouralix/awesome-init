@@ -5,6 +5,7 @@ A curated list of resources to start a new project.
 ## Code
 
 - [Bash](code/BASH.md)
+- [Go](code/GO.md)
 
 ## License
 
